@@ -1,0 +1,9 @@
+.leaflet-popup {
+  margin-bottom: 58px;
+  margin-left: -12px;
+}
+
+.leaflet-popup-content p {
+  padding: 0;
+  margin: 0 0 8px;
+}
